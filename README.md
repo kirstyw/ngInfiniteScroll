@@ -1,3 +1,7 @@
+Original README from http://binarymuse.github.com/ngInfiniteScroll/. I removed the need for jQuery.
+
+
+
 ![logo](http://binarymuse.github.com/ngInfiniteScroll/images/logo-resized.png)
 
 [![Build Status](https://travis-ci.org/BinaryMuse/ngInfiniteScroll.png?branch=master)](https://travis-ci.org/BinaryMuse/ngInfiniteScroll)
